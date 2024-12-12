@@ -270,7 +270,7 @@ Vec3 trace(const Vec3& rayOrigin, const Vec3& rayDir, int depth)
     // 软阴影检测
     int numShadowSamples = 256; // 阴影样本数量
     int numShadowHits = 0; // 被遮挡的光源样本数量
-    std::uniform_real_distribution<> lightDis(-0.3, 0.3);
+    std::uniform_real_distribution<> lightDis(-0.35, 0.35);
 
     for (int i = 0; i < numShadowSamples; ++i)
     {
