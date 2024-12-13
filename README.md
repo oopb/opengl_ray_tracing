@@ -19,7 +19,8 @@
 
 ## Installation
 
-This program requires the OpenGL library (`freeglut`) to run. Required libraries are included in the repository
+This program requires the OpenGL library (`freeglut`) to run. Required libraries are included in the
+repository [releases](https://github.com/oopb/opengl_ray_tracing/releases)
 (please unzip mingw.zip to the current directory "./mingw64").
 
 To install the program, you need to clone the repository and compile the program using the following commands:
