@@ -48,7 +48,7 @@ Or you can also double-click on the `ray_tracing.exe` file to run the program.
 
 After running the program (and wait for a few seconds), you should see a window with the rendered scene.
 
-![effect.png](.\effect.png)
+![effect.png](effect.png)
 
 ## Details
 
